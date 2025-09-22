@@ -175,23 +175,3 @@ if __name__ == "__main__":
     main()
 
 #Debeaver Üzerinden database e erişim sağlanabilir.
-
-
-def questions():
-    '''
-    Basit
-    1) Bütün kursların bilgilerini getirin
-    2) Sadece eğitmenlerin ismini ve ders ismi bilgilerini getirin
-    3) Sadece 21 yaşındaki öğrencileri getirin
-    4) Sadece Chicago'da yaşayan öğrencileri getirin
-    5) Sadece 'Dr. Anderson' tarafından verilen dersleri getirin
-    6) Sadece ismi 'A' ile başlayan öğrencileri getirin
-    7) Sadece 3 ve üzeri kredi olan dersleri getirin
-
-    Detaylı
-    1) Öğrencileri alphabetic şekilde dizerek getirin
-    2) 20 yaşından büyük öğrencileri, ismine göre sıralayarak getirin
-    3) Sadece 'New York' veya 'Chicago' da yaşayan öğrencileri getirin
-    4) Sadece 'New York' ta yaşamayan öğrencileri getirin
-    '''
-
